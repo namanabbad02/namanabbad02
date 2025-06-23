@@ -2,9 +2,9 @@
 -->
 
 
-<!-- Profile Banner -->
+<!-- Profile Banner 
 ![Banner](https://your-banner-image-link-here.com/banner.png)
-
+-->
 <h1 align="center">Hi 👋, I'm Naman Jain</h1>
 <h3 align="center">Passionate Developer | Tech Enthusiast | Problem Solver</h3>
 
@@ -39,21 +39,21 @@
 ---
 
 ## 📈 GitHub Analytics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=namanabbad02&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanabbad02&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🕐 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?usernamenamanabbad02&theme=react-dark)
 
 ---
 
 ## 🌐 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/your-username"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/naman-jainn"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/_jain_naman"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="mailto:abbadnaman@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
