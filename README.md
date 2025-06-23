@@ -7,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=namanabbad02&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/namanabbad02?label=Followers&style=for-the-badge" alt="Followers" />
 </p>
-
 ---
 
 ### 🧠 About Me
