@@ -45,7 +45,7 @@
 ---
 
 ## 🕐 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?usernamenamanabbad02&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=namanabbad02&theme=react-dark)
 
 ---
 
