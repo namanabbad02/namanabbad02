@@ -1,7 +1,7 @@
 <!-- Custom Banner -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=250&section=header&text=Naman%20Jain&fontSize=60&fontColor=ffffff&animation=fadeIn)
 
-<h2 align="center">👋 Hey, I'm Naman Jain — Software Engineer & Tech Enthusiast</h2>
+<h2 align="center">👋 Hey, I'm Naman Jain — Machine Learning Engineer & Tech Enthusiast</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=namanabbad02&color=blueviolet&style=for-the-badge" alt="Profile Views" />
