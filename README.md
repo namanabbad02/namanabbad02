@@ -43,7 +43,6 @@
 ---
 
 ### ✨ Fun & Inspiration
-> ![Random Dev Meme](https://readme-meme.vercel.app/api?theme=dark)
 > ![Random Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
