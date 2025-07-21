@@ -31,17 +31,6 @@
 
 ---
 
-### ⚡ GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=namanabbad02&show_icons=true&theme=radical" alt="namanabbad02 GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanabbad02&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📊 Activity Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=namanabbad02&bg_color=1c1917&color=9e9e9e&line=7c3aed&point=9333ea&area=true)](https://github.com/namanabbad02)
-
 ---
 
 ### 🌐 Connect with Me
