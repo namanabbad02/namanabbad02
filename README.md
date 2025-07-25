@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://lottie.host/embed/ae853c68-34fa-4163-8d27-be1ec157897e/isAJXmwQ1W.lottie">
+<img align="right" alt="Coding" width="400" src="https://lottie.host/embed/ae853c68-34fa-4163-8d27-be1ec157897e/isAJXmwQ1W.gif">
 
 
 ### 🧑‍💻 About Me
