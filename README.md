@@ -3,7 +3,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78A4B&center=true&vCenter=true&width=440&lines=Hello+World!%2C+I'm+Naman+Jain.;I+love+building+cool+stuff.;Let's+connect+and+create+impact!" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif">
+
+---
+
+<p align="center">
+  <a href="mailto:namanabbad02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/naman-jain-2593a626a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://github.com/namanabbad02">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>&nbsp;
+</p>
 
 ---
 
@@ -11,7 +25,7 @@
 
 ```yaml
 Name: Naman Jain
-Email: namanabbad02@gmail.com
+Email: abbadnaman@gmail.com
 Location: India
 ```
 A driven and curious learner exploring the intersections of full-stack development and AI.
@@ -21,7 +35,7 @@ Always ready to experiment, collaborate, and bring meaningful ideas to life thro
 
 ### 🧰 Tech Toolbox
 #### 🚀 Programming & Tools
-`JavaScript` `React` `Node.js` `MySQL` `Git TailwindCSS Docker`
+`JavaScript` `React` `Node.js` `MySQL` `Git` `TailwindCSS` `Docker`
 
 #### 🧠 Interests
 `Web Development` `AI/ML` `APIs` `System Design Automation`
