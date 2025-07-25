@@ -4,7 +4,7 @@
 </p>
 
 <!-- Coding GIF  https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif">
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif">
 
 ---
 
