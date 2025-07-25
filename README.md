@@ -8,19 +8,7 @@
 
 ---
 
-<!-- Contact / Links -->
-<h3 align="center">🌐 Connect with Me</h3>
 
-<p align="center">
-  <a href="mailto:abbadnaman@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/naman-jain-2593a626a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
 
 ### 🧑‍💻 About Me
 
@@ -32,6 +20,20 @@ Location: India
 
 A driven and curious learner exploring the intersections of full-stack development and AI.
 Always ready to experiment, collaborate, and bring meaningful ideas to life through code.
+
+---
+
+<!-- Contact / Links -->
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="mailto:abbadnaman@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/naman-jain-2593a626a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
