@@ -17,7 +17,7 @@ Location: India
 A driven and curious learner exploring the intersections of full-stack development and AI.
 Always ready to experiment, collaborate, and bring meaningful ideas to life through code.
 
-###🧰 Tech Toolbox
+### 🧰 Tech Toolbox
 - 🚀 Programming & Tools
 JavaScript React Node.js MySQL Git TailwindCSS Docker
 
