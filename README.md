@@ -1,4 +1,3 @@
-### Hello there! <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=namanabbad02&color=blueviolet" alt="profile views" align="right"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78A4B&center=true&vCenter=true&width=440&lines=Hello+World!%2C+I'm+Naman+Jain.;I+love+building+cool+stuff.;Let's+connect+and+create+impact!" alt="Typing SVG" />
