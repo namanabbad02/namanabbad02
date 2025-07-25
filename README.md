@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78A4B&center=true&vCenter=true&width=440&lines=Hello+World!%2C+I'm+Naman+Jain.;I+love+building+cool+stuff.;Let's+connect+and+create+impact!" alt="Typing SVG" />
 </p>
 
-<!-- Coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif">
+<!-- Coding GIF  https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 ---
 
