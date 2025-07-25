@@ -40,10 +40,10 @@ Always ready to experiment, collaborate, and bring meaningful ideas to life thro
 
 ### 🧰 Tech Toolbox
 #### 🚀 Programming & Tools
-JavaScript React Node.js MySQL Git TailwindCSS Docker
+`JavaScript` `React` `Node.js` `MySQL` `Git` `TailwindCSS` `Docker`
 
 #### 🧠 Interests
-Web Development AI/ML APIs System Design Automation
+`Web Development` `AI/ML` `APIs` `System Design Automation`
 
 ---
 
