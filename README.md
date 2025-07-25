@@ -1,19 +1,3 @@
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78A4B&center=true&vCenter=true&width=440&lines=Hello+World!%2C+I'm+Naman+Jain.;I+love+building+cool+stuff.;Let's+connect+and+create+impact!" alt="Typing SVG" />
-</p>
-
----
-
-- 🧠 Constantly learning and experimenting
-- 🚀 Exploring AI & Cloud
-- 🎯 Interests: Web Development, Automation, Machine Learning
-- 🎯 Looking to collaborate on meaningful tech projects
-- 📫 Reach out: [namanabbad02@gmail.com](mailto:namanabbad02@gmail.com)
-
----
-
 <p align="center">
   <a href="mailto:namanabbad02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -23,8 +7,21 @@
   </a>&nbsp;
   <a href="https://github.com/namanabbad02">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>&nbsp;
+  </a>
 </p>
+
+### Hello there! <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=namanabbad02&color=blueviolet" alt="profile views" align="right"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78A4B&center=true&vCenter=true&width=440&lines=Hello+World!%2C+I'm+Naman+Jain.;I+love+building+cool+stuff.;Let's+connect+and+create+impact!" alt="Typing SVG" />
+</p>
+
+---
+
+- 🧠 Constantly learning and experimenting
+- 🚀 Currently exploring full-stack development and AI systems
+- 🎯 Looking to collaborate on meaningful tech projects
+- 📫 Reach out: [namanabbad02@gmail.com](mailto:namanabbad02@gmail.com)
 
 ---
 
