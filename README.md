@@ -31,8 +31,14 @@ Always ready to experiment, collaborate, and bring meaningful ideas to life thro
 
 #### 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=namanabbad02&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=namanabbad02&theme=radical" width="48%" /> </p>
+
 ---
+
 ### ✨ Let's Connect
->Curious by nature, focused by purpose.
-“Learning by doing, growing by building.”
+
+Driven by curiosity and a commitment to lifelong learning. Always open to connect, collaborate, and create meaningful solutions together.
+> *“Learning by doing, growing by building.”*
+
+
+
 ---
